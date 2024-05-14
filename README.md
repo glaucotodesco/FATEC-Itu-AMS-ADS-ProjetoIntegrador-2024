@@ -1,6 +1,16 @@
 <h1 align='center'>Easy Coast</h1>
 O Easy-Coast é um sistema projetado para simplificar a gestão de restaurantes pequenos e médios. Ele oferece uma variedade de ferramentas para ajudar os proprietários a administrar seus negócios de forma eficiente.
 
+<div align='center'>
+  <a href='#funcionamento-básico'>Funcionamento Básico</a> |
+  <a href='#usuários-e-suas-funcionalidades'>Usuários e suas funcionalidades</a> |
+  <a href='#jornada-dos-usuários'>Jornada dos Usuários</a> |
+  <a href='#protótipos'>Protótipos</a> |
+  <a href='#monetização'>Monetização</a> |
+  <a href='#concorrentes'>Concorrentes</a> |
+  <a href='#tecnologias'>Tecnologias</a>
+</div>
+
 ## Funcionamento Básico
 Quando o cliente chegar no estabelecimento, os clientes receberão uma comanda física, que os garçons usam para enviar os pedidos para a cozinha de maneira mais rápida e prática. Após os pedidos serem feitos e entregues aos clientes, eles irão ao caixa, que possui um sistema PDV, que facilitará para que o pedido seja fechado.
 
@@ -14,9 +24,9 @@ Ao fechar um pedido, é possível dividir/adicionar pagamento e escolher as form
 - <strong>Administração: </strong>Os administradores poderão adicionar departamentos, acessos para o app de garçom e caixa, customizar o cardápio, configurar as mesas e comandas, criar sobre nós e visualizar um relatório geral do restaurante.
 
 ## Jornada dos Usuários
-1. <strong>Cliente: </strong>Ao chegar no estabelecimento, as comandas (um papel com o número e QR code da comanda), e escaneando os QR codes presente nas mesas, eles poderão ver o cardápio do restaurante.<br>
+1. <strong>Cliente: </strong>Ao chegar no estabelecimento, receberão as comandas (um papel com o número e QR code da comanda), e escaneando os QR codes presente nas mesas, eles poderão ver o cardápio do restaurante.<br>
 Quando o garçom chegar, ele utilizará as comandas para fazer os pedidos dos clientes, que serão mandados diretamente para a cozinha.<br>
-No cardápio do QR code, o cliente poderá acompanhar os status do seu pedido, é possível um tempo de tolerância (5 min.) para poder pedir ao seu garçom para mudar o pedido.<br>
+No cardápio do QR code, o cliente poderá acompanhar os status do seu pedido, e dentro do tempo de tolerância (5 min.) poderá pedir ao seu garçom para mudar o pedido.<br>
 Após receber e consumir o seu pedido, os clientes poderão finalizar o seu pedido no caixa, que vão possuir um sistema PDV para fechar os pedidos;
 2. <strong>Garçom: </strong>O garçom vai possuir uma tela própria do sistema para que os pedidos possam ser feitos. Quando um cliente escolher uma mesa, o Garçom irá criar um pedido, utilizando a o número da comanda e da mesa que o cliente estará usando. Após definir a comanda, o garçom vai registrar os pedidos na sua tela.<br>
 Além de poder escolher os produtos do cardápio, o garçom pode customizar os adicionais/opcionais dos produtos. Terminando o pedido, o garçom envia para diretamente para a cozinha, que será impresso em uma impressora de pedidos.<br>
@@ -30,6 +40,13 @@ Em departamentos, os administradores poderão adicionar departamentos do restaur
 Na sessão de cardápio, o administrador poderá criar categorias e os produtos dessas categorias, customizando os preços, descrição, foto, etc. Também é possível deixar alguns campos desativados, para que não apareçam no cardápio dos clientes.<br>
 Em “mesas e comandas”, os administradores poderão adicionar e remover mesas (o balcão será fixo), e imprimir as comandas, gerando um PDF onde você pode customizar a arte.<br>
 Já no relatório geral, é possível ver um relatório sobre o restaurante, com informações sobre os clientes, receita e vendas do restaurante, além de poder customizar o “sobre nós” do restaurante.<br>
+
+## Protótipos
+As imagens abaixo são protótipos (de baixa fidelidade) de como serão as telas dos usuários:
+- <strong>Clientes</strong>
+- <strong>Garçom</strong>
+- <strong>PDV</strong>
+- <strong>Administração</strong>
 
 ## Monetização
 A meta é que essa plataforma funcione por mensalidade, permitindo que qualquer restaurante possa usufruir dos benefícios do aplicativo pagando um valor fixo/específico por mês.<br>
