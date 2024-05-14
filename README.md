@@ -1,14 +1,12 @@
 <div align='center'>
-  
   <img style="width:100px; border-radius: 0.5rem;" src="https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/b5c45a19-d838-4c79-80f6-5675208cd47c" alt="logo">
 </div>
+
 <h1 align='center'>Easy Coast</h1>
 
 <div align="center">
-
   O Easy-Coast é um sistema projetado para simplificar a gestão de restaurantes pequenos e médios. <br> 
   Ele oferece uma variedade de ferramentas para ajudar os proprietários a administrar seus negócios de forma eficiente.
-  
 </div>
 
 <div align='center'>
@@ -16,7 +14,7 @@
   <a href='#usuários-e-suas-funcionalidades-'>Usuários e suas funcionalidades</a> |
   <a href='#jornada-dos-usuários-'>Jornada dos Usuários</a> |
   <a href='#protótipos-'>Protótipos</a> |
-  <a href='#monetização-'>Monetização</a> |
+  <a href='https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/edit/main/README.md#monetiza%C3%A7%C3%A3o-em-desenvolvimento-'>Monetização</a> |
   <a href='#concorrentes-'>Concorrentes</a> |
   <a href='#tecnologias-'>Tecnologias</a>
 </div>
@@ -46,34 +44,33 @@ Caso o cliente desejar, o caixa pode adicionar um produto a mais, podendo ser pa
 Com o pedido completo, o caixa então fará a finalização, onde será decidido quantos pagamentos será feito e as formas. também poderá ser adicionado a gorjeta do garçom.<br>
 Caso um cliente vá ao estabelecimento apenas para fazer um pedido para a viagem, o caixa pode fazer um pedido do balcão, sem a necessidade de uma comanda;
 4. <strong>Administração: </strong>Na tela de administração, será destinada para os donos e gerentes dos restaurantes. Na tela destinada ao dono, ele poderá registrar todos os seus restaurantes, e adicionar outros acessos de administradores inferiores para esses restaurantes (destinados para os gerentes).<br>
-Em departamentos, os administradores poderão adicionar departamentos do restaurante, onde os produtos pedidos pelos clientes serão destinados. Nessa tela também será possível adicionar acesso dos funcionários para o as telas de garçom e PDV.<br>
+Em departamentos, os administradores poderão adicionar departamentos do restaurante, onde os produtos pedidos pelos clientes serão destinados. Nessa tela também será possível adicionar acesso dos funcionários para as telas de garçom e PDV.<br>
 Na sessão de cardápio, o administrador poderá criar categorias e os produtos dessas categorias, customizando os preços, descrição, foto, etc. Também é possível deixar alguns campos desativados, para que não apareçam no cardápio dos clientes.<br>
 Em “mesas e comandas”, os administradores poderão adicionar e remover mesas (o balcão será fixo), e imprimir as comandas, gerando um PDF onde você pode customizar a arte.<br>
-Já no relatório geral, é possível ver um relatório sobre o restaurante, com informações sobre os clientes, receita e vendas do restaurante, além de poder customizar o “sobre nós” do restaurante.<br>
+Já no relatório geral, é possível ver um relatório sobre o restaurante, com informações sobre os clientes, receita e vendas do restaurante, além de poder customizar o “sobre nós” do restaurante.
 
 ## Protótipos 🎨
 As imagens abaixo são protótipos (de baixa fidelidade) de como serão as telas dos usuários:
 
-### Clientes
+- **Clientes**
 
 ![MENU](https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/7b986a03-90c0-480f-b601-7ac9a8548969)
 
-
-### Garçom
+- **Garçom**
 
 ![WAITER](https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/48411e72-9a4b-4f91-a5ec-e642e0944b1e)
 
-
-### PDV
+- **PDV**
 
 ![PDV](https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/0e768940-1349-405c-baf1-0a83c1663cc9)
 
-### Administração
+- **Administração**
 
 ![ADM](https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/b87b4342-d206-4fef-9f48-f04866b1f845)
 
+Acesse o nosso protótipo através do **[Figma](https://www.figma.com/file/3trcnUzJdyr8Eo3xKSGpuo/Untitled?type=design&mode=design&t=3JGZDpi8uSaljZVn-0)**.
 
-## Monetização 💰
+## Monetização (Em desenvolvimento) 👷
 A meta é que essa plataforma funcione por mensalidade, permitindo que qualquer restaurante possa usufruir dos benefícios do aplicativo pagando um valor fixo/específico por mês.<br>
 Como o aplicativo será feito em qualquer restaurante que planeja querer otimizar o seu funcionamento, os donos terão que usar de maneira que se adapte para o funcionamento do restaurante.<br>
 Poderá ser possível haver planos diferentes para cada caso, como planos mais baratos mas que possuem menos comandas, e planos mais caros, que possuem mais comandas.
@@ -81,7 +78,7 @@ Poderá ser possível haver planos diferentes para cada caso, como planos mais b
 ## Concorrentes 🏁
 1. <strong>QrPedir: </strong>A empresa vai atrás ou é contatada por restaurantes para implementarem o sistema no seu negócio. Os cardápios digitais são feitos apenas por QR code, lidos pelos aparelhos dos clientes;
 2. <strong>Abrahão: </strong>Possui cardápio digital por tablets e QR, sistema de filas de espera e sistema de Delivery. Para implementar o sistema, é necessário entrar em contato com a empresa;
-3. <strong>Goomer: </strong>Possuir cardápio digital por WhatsApp, código QR, tablets, e um ótimo sistema de administração de pedidos. Para implementar nos restaurantes, você pode assinar planos que o aplicativo oferece;
+3. <strong>Goomer: </strong>Possui cardápio digital por WhatsApp, código QR, tablets, e um ótimo sistema de administração de pedidos. Para implementar nos restaurantes, você pode assinar planos que o aplicativo oferece;
 4. <strong>Get In: </strong>Possui cardápio digital por tablets, QR, e sistema de filas de espera. A implementação é feita por planos, que são bastante caros (entre R$ 239 à R$ 499);
 5. <strong>BigDim: </strong>Sistema PDV para dono/caixa, cardápio online, utilizando QR Code, sistema de mesa, delivery, WhatsApp Marketing, impressão de pedidos e sistema de pontuação/prêmios. A monetização é feita por planos, com diferentes preços e vantagens;
 
@@ -91,3 +88,143 @@ Poderá ser possível haver planos diferentes para cada caso, como planos mais b
 - **Java:** Linguagem de programação orientada a objetos;
 - **Spring:** O Spring é um framework open source para a plataforma Java;
 - **Bootstrap:** Frameworks baseados em modelos de design para tipografia, melhorando a experiência do usuário.
+
+## Desenvolvedores 📖
+<table>
+    <tr>
+       <td align="center">
+        <a href="https://github.com/bananadev3">
+          <img src="https://avatars.githubusercontent.com/u/119887983?v=4" width="130px" alt="Foto do Perfil Angelo"/><br>
+          <sub>
+            <b>Angelo Ferraz</b>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/BR0KLYN9">
+          <img src="https://avatars.githubusercontent.com/u/114952469?v=4" width="130px" alt="Foto do Perfil Cauã"/><br>
+          <sub>
+            <b>Caua Granchelli</b>
+          </sub>
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://github.com/Gustavo-Andrelo">
+          <img src="https://avatars.githubusercontent.com/u/114952607?v=4" width="130px" alt="Foto do Perfil Gustavo Andrelo"/><br>
+          <sub>
+            <b>Gustavo Andrelo</b>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Bi4nCaaAaa">
+          <img src="https://avatars.githubusercontent.com/u/161071522?v=4" width="130px" alt="Foto do Perfil Felipe"/><br>
+          <sub>
+            <b>Felipe Garcia</b>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/cipher757">
+          <img src="https://avatars.githubusercontent.com/u/96275851?v=4" width="130px" alt="Foto do Perfil João Otavio"/><br>
+          <sub>
+            <b>João Otavio</b>
+          </sub>
+        </a>
+      </td>
+    </tr>
+      <tr>
+       <td align="center">
+        <a href="https://github.com/JVOP2">
+          <img src="https://avatars.githubusercontent.com/u/163171107?v=4" width="130px" alt="Foto do Perfil João Vitor"/><br>
+          <sub>
+            <b>João Vitor</b>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jorge-destruidor">
+          <img src="https://avatars.githubusercontent.com/u/95537692?v=4" width="130px" alt="Foto do Perfil Jorge Fernando"/><br>
+          <sub>
+            <b>Jorge Fernando</b>
+          </sub>
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://github.com/JuliaCanavezi">
+          <img src="https://avatars.githubusercontent.com/u/161068647?v=4" width="130px" alt="Foto do Perfil Julia Canavezi"/><br>
+          <sub>
+            <b>Julia Canavezi</b>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/luukinhaaa">
+          <img src="https://avatars.githubusercontent.com/u/114953486?v=4" width="130px" alt="Foto do Perfil Lucas Camargo"/><br>
+          <sub>
+            <b>Lucas Camargo</b>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MariaMariEdu">
+          <img src="https://avatars.githubusercontent.com/u/145278599?v=4" width="130px" alt="Foto do Perfil Maria Eduarda"/><br>
+          <sub>
+            <b>Maria Eduarda</b>
+          </sub>
+        </a>
+      </td>
+    </tr>
+    <tr>   
+    <td align="center">
+      <a href="https://github.com/muriisantuss">
+        <img src="https://avatars.githubusercontent.com/u/151096774?s=96&v=4" style="margin-right: 32px;" width="130px" alt="Foto do Muriisantuss"/><br>
+        <sub>
+          <b>Murilo Santos</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vinisvp">
+        <img src="https://avatars.githubusercontent.com/u/114880650?v=4" width="130px" alt="Foto do Perfil ViniSVP"/><br>
+        <sub>
+          <b>Pedro Vinicius</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/RafaScalet">
+        <img src="https://avatars.githubusercontent.com/u/114953004?v=4" style="margin-right: 32px;" width="130px" alt="Foto do Rafael Scalet"/><br>
+        <sub>
+          <b>Rafael Scalet</b>
+        </sub>
+      </a>
+    </td>
+  <td align="center">
+      <a href="https://github.com/vivinivinicius">
+        <img src="https://avatars.githubusercontent.com/u/63076142?v=4" style="margin-right: 32px;" width="130px" alt="Foto do Perfil Vinicius Ribeiro"/><br>
+        <sub>
+          <b>Vinicius Ribeiro</b>
+        </sub>
+      </a>
+    </td>
+  <td align="center">
+      <a href="https://github.com/YuuyaOkatani">
+        <img src="https://avatars.githubusercontent.com/u/114952688?v=4" style="margin-right: 32px;" width="130px" alt="Foto do Yuuya Okatani"/><br>
+        <sub>
+          <b>Yuuya Okatani</b>
+        </sub>
+      </a>
+    </td>
+     </tr>
+</table>
+
+### Orientador 🧙‍♂️
+
+<div style="overflow: hidden;">
+  <a  href="https://github.com/glaucotodesco">
+    <img src="https://avatars.githubusercontent.com/u/17340839?v=4" width="130px"/>
+</a> 
+    <br />
+
+[**Glauco Todesco**](https://github.com/glaucotodesco)
