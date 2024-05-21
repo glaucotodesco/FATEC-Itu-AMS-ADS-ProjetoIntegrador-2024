@@ -17,6 +17,8 @@
   <a href='https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/edit/main/README.md#monetiza%C3%A7%C3%A3o-em-desenvolvimento-'>Monetização</a> |
   <a href='#concorrentes-'>Concorrentes</a> |
   <a href='#tecnologias-'>Tecnologias</a>
+  <a href='docs/bdPrototype.md'>DiagramaBD</a>
+
 </div>
 
 ## Funcionamento Básico 🔄
