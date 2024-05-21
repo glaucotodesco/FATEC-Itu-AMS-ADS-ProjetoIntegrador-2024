@@ -16,7 +16,7 @@
   <a href='#protótipos-'>Protótipos</a> |
   <a href='https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/edit/main/README.md#monetiza%C3%A7%C3%A3o-em-desenvolvimento-'>Monetização</a> |
   <a href='#concorrentes-'>Concorrentes</a> |
-  <a href='#tecnologias-'>Tecnologias</a>
+  <a href='#tecnologias-'>Tecnologias</a> |
   <a href='docs/bdPrototype.md'>DiagramaBD</a>
 
 </div>
@@ -54,11 +54,11 @@ Já no relatório geral, é possível ver um relatório sobre o restaurante, com
 ## Protótipos 🎨
 As imagens abaixo são protótipos (de baixa fidelidade) de como serão as telas dos usuários:
 
-- **Clientes**
+- **Client**
 
 ![MENU](https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/7b986a03-90c0-480f-b601-7ac9a8548969)
 
-- **Garçom**
+- **Waiter**
 
 ![WAITER](https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/48411e72-9a4b-4f91-a5ec-e642e0944b1e)
 
@@ -66,7 +66,7 @@ As imagens abaixo são protótipos (de baixa fidelidade) de como serão as telas
 
 ![PDV](https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/0e768940-1349-405c-baf1-0a83c1663cc9)
 
-- **Administração**
+- **Admin/Manager**
 
 ![ADM](https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/b87b4342-d206-4fef-9f48-f04866b1f845)
 
