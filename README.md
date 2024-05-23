@@ -221,6 +221,17 @@ Poderá ser possível haver planos diferentes para cada caso, como planos mais b
      </tr>
 </table>
 
+### (rascunho...) 🧙‍♂️
+
+<td align="center">
+        <a href="https://github.com/ErickRuckeSouza">
+          <img src="https://avatars.githubusercontent.com/u/170455700?v=4" width="130px" alt="Foto do Perfil Erick"/><br>
+          <sub>
+            <b>Erick Souza</b>
+          </sub>
+          </a>
+      </td>
+
 ### Orientador 🧙‍♂️
 
 <div style="overflow: hidden;">
