@@ -2,10 +2,10 @@
   <img style="width:100px; border-radius: 0.5rem;" src="https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/b5c45a19-d838-4c79-80f6-5675208cd47c" alt="logo">
 </div>
 
-<h1 align='center'>Easy Coast V1</h1>
+<h1 align='center'>Easy Coast V.5.0</h1>
 
 <div align="center">
-  O Easy-Coast é um sistema projetado para simplificar a gestão de restaurantes pequenos e médios. <br> 
+  O Easy-Coast é um sistema projetado para simplificar a gestão de restaurantes de pequeno e médio porte. <br> 
   Ele oferece uma variedade de ferramentas para ajudar os proprietários a administrar seus negócios de forma eficiente.
 </div>
 
@@ -25,7 +25,7 @@
 Quando o cliente chegar no estabelecimento, os clientes receberão uma comanda física, que os garçons usam para enviar os pedidos para a cozinha de maneira mais rápida e prática. Após os pedidos serem feitos e entregues aos clientes, eles irão ao caixa, que possui um sistema PDV, que facilitará para que o pedido seja fechado.
 
 ## Usuários e suas Funcionalidades 👥
-- <strong>Cliente: </strong>Não poderá mexer no sistema, apenas visualizar o cardápio disponibilizado pelo restaurante, que será separado por categorias e os produtos possuindo seus detalhes, fotos e adicionais/opcionais, e acompanhar o status do seu pedido criando uma conta;
+- <strong>Cliente: </strong>Não irá mexer no sistema, apenas visualizar o cardápio disponibilizado pelo restaurante, que será separado por categorias e os produtos possuindo seus detalhes, fotos e adicionais/opcionais, e acompanhar o status do seu pedido criando uma conta;
 - <strong>Garçom: </strong>Garçons poderão realizar os pedidos dos clientes, definindo a sua comanda, mesa, e os produtos pedidos. Na seleção de produtos, o garçom poderá mexer nos adicionais/opcionais.<br>
 Terá uma tela visualizando todos os pedidos daquela comanda, que poderão ser enviados. Após o envio, o garçom terá 5 minutos de tolerância para poder modificar o pedido caso o cliente deseje.<br>
 O garçom pode reabrir a comanda para fazer essas modificações, além de mudar o número da mesa;
