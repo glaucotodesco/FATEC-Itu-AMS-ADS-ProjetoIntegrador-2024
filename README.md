@@ -2,11 +2,13 @@
   <img style="width:100px; border-radius: 0.5rem;" src="https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/b5c45a19-d838-4c79-80f6-5675208cd47c" alt="logo">
 </div>
 
-<h1 align='center'>Easy Coast V.5.0</h1>
+<h1 align='center'>Easy Coast V2</h1>
+
 
 <div align="center">
   O Easy-Coast é um sistema projetado para simplificar a gestão de restaurantes de pequeno e médio porte. <br> 
   Ele oferece uma variedade de ferramentas para ajudar os proprietários a administrar seus negócios de forma eficiente.
+salveeeeee
 </div>
 
 <div align='center'>
