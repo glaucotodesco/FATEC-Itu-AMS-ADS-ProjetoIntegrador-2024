@@ -2,7 +2,7 @@
   <img style="width:100px; border-radius: 0.5rem;" src="https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/assets/151096774/b5c45a19-d838-4c79-80f6-5675208cd47c" alt="logo">
 </div>
 
-<h1 align='center'>Easy Coast V2</h1>
+<h1 align='center'>Easy Coast V5.5</h1>
 
 
 <div align="center">
@@ -12,14 +12,14 @@ salveeeeee
 </div>
 
 <div align='center'>
-  <a href='#funcionamento-básico-'>Funcionamento Básico</a> |
+  <a href='#funcionamento-básico-'>Funcionamento massa</a> |
   <a href='#usuários-e-suas-funcionalidades-'>Usuários e suas funcionalidades</a> |
   <a href='#jornada-dos-usuários-'>Jornada dos Usuários</a> |
   <a href='#protótipos-'>Protótipos</a> |
   <a href='https://github.com/glaucotodesco/FATEC-Itu-AMS-ADS-ProjetoIntegrador-2024/edit/main/README.md#monetiza%C3%A7%C3%A3o-em-desenvolvimento-'>Monetização</a> |
   <a href='#concorrentes-'>Concorrentes</a> |
   <a href='#tecnologias-'>Tecnologias</a> |
-  <a href='docs/bdPrototype.md'>DiagramaBD</a>
+  <a href='docs/bdPrototype.md'>supreme</a>
   <a href='docs/bdPrototype.md'>Calabresafrita</a>
 
 </div>
