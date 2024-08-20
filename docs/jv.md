@@ -1,1 +1,0 @@
-:sparkles: A :sparkles:
